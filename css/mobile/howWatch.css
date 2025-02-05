@@ -1,0 +1,73 @@
+div.howTitle{
+    width: 100%;
+    background-color: black;
+    box-sizing: border-box;
+    padding: 500px 70px 0px 70px;
+    p{
+        width: 400px;
+        color: gray;
+        font-family: iranSans;
+        position: absolute;
+        top: 3900px;
+    }
+    h2{
+        color: white;
+        padding-top: 120px;
+        box-sizing: border-box;
+        font-family: iranSans;
+        font-weight: 700;
+        font-size: 22px;
+    }
+}
+div.iconHow{
+    width: 100%;
+    background-color: black;
+    box-sizing: border-box;
+    padding: 100px 70px 0px 70px;
+    h2{
+        font-family: iranSans;
+        color: white;
+        display: inline;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+    p{
+        font-family: iranSans;
+        color: gray;
+        padding-top: 10px;
+        padding-bottom: 30px;
+        box-sizing: border-box;
+
+    }
+    img{
+        width: 35px;
+    }
+}
+div.btnHow{
+    width: 100%;
+    background-color: black;
+    box-sizing: border-box;
+    padding: 50px 70px 0px 70px;
+    a{
+        color: white;
+        padding: 15px;
+        background-color: #575757;
+        border-radius: 10px;
+        transition: 500ms;
+        font-family: iranSans;
+        &:hover{
+            background-color:gray ;
+        }
+    }
+}
+div.imgHow{
+  
+    box-sizing: border-box;
+    padding: 0px 850px 0px 70px;
+    position: absolute;
+    top: 2000px;
+    img{
+        width: 980px;
+        display: none;
+    }
+}

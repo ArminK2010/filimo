@@ -1,0 +1,23 @@
+div#app{
+    width: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: iranSans;
+    src: url(../font/IRANSans.eot);
+}
+@font-face {
+    font-family: iranSans;
+    src: url(../font/IRANSans.woff);
+}
+@font-face {
+    font-family: iranSans;
+    src: url(../font/IRANSans.woff2);
+}
+
+body{
+    background-color: black;
+}

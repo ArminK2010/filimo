@@ -1,0 +1,106 @@
+div.didgah{
+    width: 100%;
+    background-color: black;
+    box-sizing: border-box;
+    padding: 10px 70px 0px 70px;
+    position: absolute;
+    top: 8000px;
+    display: none;
+    div.titleDidgah{
+        h2{
+            color: white;
+            font-family: iranSans;
+        }
+    }
+}
+
+div.didgahs{
+    
+    div.didgahOne{
+        width: 500px;
+        border: 1px solid rgb(53, 53, 53);
+        border-radius: 10px;
+        padding: 20px;
+        box-sizing: border-box;
+        margin-top: 50px;
+        height: 150px;
+        p{
+            color: white;
+            font-family: iranSans;
+            position: absolute;
+            top: 125px;
+            right: 135px;
+        }
+        h3{
+            color: white;
+            font-family: iranSans;
+            padding-top: 20px;
+            box-sizing: border-box;
+            font-weight: 200;
+            font-size: 17px;
+        }
+        img{
+            width: 30px;
+        }
+    }
+    div.didgahTow{
+        width: 500px;
+        border: 1px solid rgb(53, 53, 53);
+        border-radius: 10px;
+        padding: 20px;
+        box-sizing: border-box;
+        margin-top: 0px;
+        margin-right: 600px;
+        height: 150px;
+        position: absolute;
+        top: 100px;
+        p{
+            color: white;
+            font-family: iranSans;
+            position: absolute;
+            top: 20px;
+            right: 70px;
+        }
+        h3{
+            color: white;
+            font-family: iranSans;
+            padding-top: 20px;
+            box-sizing: border-box;
+            font-weight: 200;
+            font-size: 17px;
+        }
+        img{
+            width: 30px;
+        }
+    }
+    div.didgahThree{
+        width: 500px;
+        border: 1px solid rgb(53, 53, 53);
+        border-radius: 10px;
+        padding: 20px;
+        box-sizing: border-box;
+        margin-top: 0px;
+        margin-right: 1200px;
+        height: 150px;
+        position: absolute;
+        top: 100px;
+        p{
+            color: white;
+            font-family: iranSans;
+            position: absolute;
+            top: 20px;
+            right: 70px;
+        }
+        h3{
+            color: white;
+            font-family: iranSans;
+            padding-top: 20px;
+            box-sizing: border-box;
+            font-weight: 200;
+            font-size: 17px;
+        }
+        img{
+            width: 30px;
+        }
+    }
+}

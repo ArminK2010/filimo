@@ -1,0 +1,29 @@
+div.pup {
+    width: 100%;
+    padding: 150px 70px 0px 70px;
+    box-sizing: border-box;
+    div.titlepup {
+        box-sizing: border-box;
+        padding-right: 70px;
+      color: white;
+      font-family: iranSans;
+    }
+    div.imgpup {
+      box-sizing: border-box;
+      padding-top: 50px;
+      display: flex;
+      flex-flow: column nowrap;
+      justify-content: center;
+      align-items: center;
+      gap: 150px;
+      img {
+        border-radius: 10px;
+        opacity: 0.7;
+        transition: 500ms;
+        &:hover {
+          opacity: 1;
+        }
+      }
+    }
+  }
+  

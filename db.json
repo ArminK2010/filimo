@@ -1,0 +1,401 @@
+{
+  "mainMenu": [
+    {
+      "id": 1,
+      "title": "فیلیمو",
+      "icon": "",
+      "href": "#"
+    },
+    {
+      "id": 2,
+      "title": "فیلیموتور",
+      "icon": "",
+      "href": "#"
+    },
+    {
+      "id": 3,
+      "title": "فیلیمو مدرسه",
+      "icon": "",
+      "href": "#"
+    },
+    {
+      "id": 4,
+      "title": "جستجو",
+      "icon": "",
+      "href": "#"
+    }
+  ],
+  "menuBtns": [
+    {
+      "id": 1,
+      "title": " خرید اشتراک",
+      "href": "#"
+    },
+    {
+      "id": 2,
+      "title": " ورود ",
+      "href": "#"
+    }
+  ],
+  "slider": [
+    {
+      "id": 1,
+      "url": "https://static.cdn.asset.filimo.com/ct/jgimd_desktop_1_v1.jpeg?width=1920&quality=85&sharpen=50&secret=5TuJp4MkAi_lRvxn7kKRDQ",
+      "alt": "slider"
+    },
+    {
+      "id": 2,
+      "url": "https://static.cdn.asset.filimo.com/ct/patbe_desktop_1_v1.jpeg?width=1920&quality=85&sharpen=50&secret=XkrpCw9YlC-2IJfDGw-gQw&quot",
+      "alt": "slider"
+    },
+    {
+      "id": 3,
+      "url": "https://static.cdn.asset.filimo.com/ct/io0a6_desktop_1_v1.jpeg?width=1920&quality=85&sharpen=50&secret=0j7mCi-0qhsMuzDUbpj5hA",
+      "alt": "slider"
+    },
+    {
+      "id": 4,
+      "url": "https://static.cdn.asset.filimo.com/ct/152555_desktop_1_v1.jpeg?width=1920&quality=85&sharpen=50&secret=gCBFK9grYt8SLAa4OWdMIg",
+      "alt": "slider"
+    },
+    {
+      "id": 5,
+      "url": "https://static.cdn.asset.filimo.com/ct/0w3ka_desktop_1_v2.jpeg?width=1920&quality=85&sharpen=50&secret=XuU-l5YD4iQOXZW95VCXnQ",
+      "alt": "slider"
+    }
+  ],
+  "firstInSlider": [
+    {
+      "id": 1,
+      "title": "با فیلیمو بی وقفه فیلم ببین"
+    },
+    {
+      "id": 2,
+      "title": "کنترل همیشه دست توست !"
+    }
+  ],
+  "endSlider": [
+    {
+      "id": 1,
+      "icon": "https://em-content.zobj.net/source/microsoft/74/white-heavy-check-mark_2705.png",
+      "title": "98 هزار اپیزود فیلم و سریال برای تماشا داری"
+    },
+    {
+      "id": 1,
+      "icon": "https://em-content.zobj.net/source/microsoft/74/white-heavy-check-mark_2705.png",
+      "title": "می‌تونی دانلود کنی بعد بدون اینترنت تماشا کنی"
+    },
+    {
+      "id": 1,
+      "icon": "https://em-content.zobj.net/source/microsoft/74/white-heavy-check-mark_2705.png",
+      "title": "می‌تونی یک عضو، مخصوص تماشای کودک بسازی"
+    }
+  ],
+  "btnSlider": [
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/256/7489/7489540.png",
+      "title": "خریداشتراک و تماشا"
+    }
+  ],
+  "titlePapular": [
+    {
+      "id": 1,
+      "title": "محبوب ترین های فیلیمو"
+    }
+  ],
+  "imgInPapular": [
+    {
+      "id": 1,
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_152900_269993.jpg?width=165&quality=85&sharpen=80&secret=YgiUGvJcEfJ0uZV4xfnP8w",
+      "href": ""
+    },
+    {
+      "id": 2,
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_152889_269941.jpg?width=165&quality=85&sharpen=80&secret=YPwHir_ppapv2GyFZJRXQQ",
+      "href": ""
+    },
+    {
+      "id": 3,
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_152888_269665.jpg?width=165&quality=85&sharpen=80&secret=wnD11yJ9KdFqRlNLlIWCrw",
+      "href": ""
+    },
+    {
+      "id": 4,
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_152724_269822.jpg?width=165&quality=85&sharpen=80&secret=u5LjMleQ1H5sOjH8iPLgIw",
+      "href": ""
+    },
+    {
+      "id": 5,
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_152897_269874.jpg?width=165&quality=85&sharpen=80&secret=u7TwA5kz6iDavQ5TLivxXQ",
+      "href": ""
+    },
+    {
+      "id": 6,
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_152887_269323.jpg?width=165&quality=85&sharpen=80&secret=OLWs9fiDyumv7OHmFVuNBw",
+      "href": ""
+    }
+  ],
+  "rightEvery": [
+    {
+      "id": 1,
+      "src": "https://www.filimo.com/assets/web/ui/img-5iCtMekFFXYqNbj8rjgE2A/campaigns/nosub-v_new/deviceYaghi.png",
+      "alt": "filimo"
+    }
+  ],
+  "leftMeinEveryTitle": [
+    {
+      "id": 1,
+      "title": "تماشای فیلیمو با همه دستگاه‌ها"
+    }
+  ],
+  "titleInEvery": [
+    {
+      "id": 1,
+      "title": "می‌توانید فیلیمو را به صورت هم‌زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ‌تاپ، تلویزیون و... تماشا کنید."
+    }
+  ],
+  "iconInEvery": [
+    {
+      "id": 1,
+      "icon": "https://www.filimo.com/assets/web/ui/img-5iCtMekFFXYqNbj8rjgE2A/campaigns/nosub-v_new/laptop.png",
+      "alt": "لب تاپ",
+      "title": "کامپیوتر و لپ‌تاپ",
+      "lorem": "windows PC - MacOS - Chorom OS"
+    },
+    {
+      "id": 2,
+      "icon": "https://www.filimo.com/assets/web/ui/img-5iCtMekFFXYqNbj8rjgE2A/campaigns/nosub-v_new/mobile.png",
+      "alt": "موبایل",
+      "title": "موبایل و تبلت",
+      "lorem": "Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets"
+    },
+    {
+      "id": 3,
+      "icon": "https://www.filimo.com/assets/web/ui/img-sO8ln22tJqgD3uP8y43Zg/campaigns/nosub-v_new/game.png",
+      "alt": "کنسول",
+      "title": "کنسول‌های بازی (Browser)",
+      "lorem": "Xbox Series S - Xbox Seris X - PS5 - PS4"
+    }
+  ],
+  "btnEvery": [
+    {
+      "id": 1,
+      "title": "خریداشتراک و تماشا"
+    }
+  ],
+  "titleHow": [
+    {
+      "id": 1,
+      "title": "چطور با تلویزیون، فیلیمو تماشا کنم؟",
+      "lorem": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "lorem": "ما برای راحتی شما و تماشای فیلیمو روی تلویزیون‌های مختلف 6 روش را فراهم کردیم. هرکدام از این 6 روش یک ویدیو آموزشی دارند که می‌توانید از لینک زیر، آن‌ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید."
+    }
+  ],
+  "iconHow": [
+    {
+      "id": 1,
+      "icon": "https://www.filimo.com/assets/web/ui/img-sO8ln22tJqgD3uP8y43Zg/campaigns/nosub-v_new/TV.png",
+      "title": "تلویزیون",
+      "alt": "تلویزیون",
+      "lorem": "  Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung"
+    },
+    {
+      "id": 2,
+      "icon": "https://www.filimo.com/assets/web/ui/img-sO8ln22tJqgD3uP8y43Zg/campaigns/nosub-v_new/androidTV.png",
+      "title": "اندروید تی وی",
+      "alt": "اندروید",
+      "lorem": "NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"
+    }
+  ],
+  "btnHow": [
+    {
+      "id": 1,
+      "title": " ویدیوهای آموزشی تماشا با تلویزیون >"
+    }
+  ],
+  "imgHow": [
+    {
+      "id": 1,
+      "src": "https://www.filimo.com/assets/web/ui/img-sO8ln22tJqgD3uP8y43Zg/campaigns/nosub-v_new/TVBG.png",
+      "alt": "عکس"
+    }
+  ],
+  "imgFree": [
+    {
+      "id": 1,
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_srl_11933_1-b.jpg?width=165&quality=85&sharpen=80&secret=70IQWQBeKCWalGzxIFrXww",
+      "alt": "عکس"
+    },
+    {
+      "id": 2,
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_639_995-b.jpg?width=165&quality=85&sharpen=80&secret=rCOQHoZqc3pHUbQY1o8Fgw",
+      "alt": "عکس"
+    },
+    {
+      "id": 3,
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_srl_41017_932-b.jpg?width=165&quality=85&sharpen=80&secret=UyEL2Mvhfiza38e19N9--Q",
+      "alt": "عکس"
+    },
+    {
+      "id": 4,
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_6121_429-b.jpg?width=165&quality=85&sharpen=80&secret=6moWZ9if_QmGJp7VyaiaFg",
+      "alt": "عکس"
+    },
+    {
+      "id": 5,
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_srl_12645_1-b.jpg?width=165&quality=85&sharpen=80&secret=-VcJQatmi2-4Tx3WiJrdwQ",
+      "alt": "عکس"
+    },
+    {
+      "id": 6,
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_11388_20029-b.jpg?width=165&quality=85&sharpen=80&secret=1AL5NqFx4w2KLCTyR4YPJw",
+      "alt": "عکس"
+    }
+  ],
+  "titleFree": [
+    {
+      "id": 1,
+      "title": "محتوا های رایگان"
+    }
+  ],
+  "baby": [
+    {
+      "id": 1,
+      "src": "https://www.filimo.com/assets/web/ui/img-5iCtMekFFXYqNbj8rjgE2A/campaigns/nosub-v_new/bg-kids.png",
+      "alt": "عکس"
+    }
+  ],
+  "titleBaby": [
+    {
+      "id": 1,
+      "title": "دنیایی متنوع از فیلم و کارتون‌های کودکانه",
+      "lorem": ""
+    },
+    {
+      "id": 1,
+      "title": "",
+      "lorem": "ساخت فیلیمو کودک این امکان را می‌دهد که با انتخاب سن فرزندتان، یک فضای امن برای تماشای کودک بسازید؛ یعنی محتوای مخصوص سن خودش را ببیند و به بقیه فیلم و سریال‌ها دسترسی نداشته‌باشد."
+    }
+  ],
+  "btnBaby": [
+    {
+      "id": 1,
+      "title": "فیلیمو کودک بساز"
+    },
+    {
+      "id": 2,
+      "title": "تماشای فیلیمو کودک"
+    }
+  ],
+  "titleCinema": [
+    {
+      "id": 1,
+      "title": "سینما آنلاین فیلیمو"
+    }
+  ],
+  "titrCinema": [
+    {
+      "id": 1,
+      "icon": "https://em-content.zobj.net/source/microsoft/74/white-heavy-check-mark_2705.png",
+      "title": "فیلم‌های روز سینمای ایران"
+    },
+    {
+      "id": 2,
+      "icon": "https://em-content.zobj.net/source/microsoft/74/white-heavy-check-mark_2705.png",
+      "title": "۸ ساعت زمان برای مشاهده فیلم در هر کجا"
+    },
+    {
+      "id": 3,
+      "icon": "https://em-content.zobj.net/source/microsoft/74/white-heavy-check-mark_2705.png",
+      "title": "خرید یک بلیت برای تماشا همراه با همه خانواده"
+    }
+  ],
+  "didgahTitle": [
+    {
+      "id": 1,
+      "title": "نظر کاربران بعد از تماشا فیلیمو"
+    }
+  ],
+  "didgahOne": [
+    {
+      "id": 1,
+      "karbar": "F.A",
+      "icon": "https://www.filimo.com/assets/web/ui/img-sO8ln22tJqgD3uP8y43Zg/campaigns/big-screen_v2/1.png",
+      "src": "https://www.filimo.com/assets/web/ui/img-sO8ln22tJqgD3uP8y43Zg/campaigns/big-screen_v2/virgol.png",
+      "title": "خیلی خوبه تازه فیلم های 2021 رو هم با دوبله داره "
+    }
+  ],
+  "didgahTow": [
+    {
+      "id": 1,
+      "karbar": "mostafa",
+      "icon": "https://www.filimo.com/assets/web/ui/img-sO8ln22tJqgD3uP8y43Zg/campaigns/big-screen_v2/1.png",
+      "src": "https://www.filimo.com/assets/web/ui/img-sO8ln22tJqgD3uP8y43Zg/campaigns/big-screen_v2/virgol.png",
+      "title": "از وقتی فیلیمو رو نصب کردم دیگه تلوزیون نگاه نمیکنم"
+    }
+  ],
+  "didgahThree": [
+    {
+      "id": 1,
+      "karbar": "mostafa",
+      "icon": "https://www.filimo.com/assets/web/ui/img-sO8ln22tJqgD3uP8y43Zg/campaigns/big-screen_v2/1.png",
+      "src": "https://www.filimo.com/assets/web/ui/img-sO8ln22tJqgD3uP8y43Zg/campaigns/big-screen_v2/virgol.png",
+      "title": "از وقتی فیلیمو رو نصب کردم دیگه تلوزیون نگاه نمیکنم"
+    }
+  ],
+  "ending": [
+    {
+      "id": 1,
+      "title": "فیلیمو"
+    }
+  ],
+  "loremEnd": [
+    {
+      "id": 1,
+      "src": "https://em-content.zobj.net/source/microsoft/74/white-heavy-check-mark_2705.png",
+      "title": "هزاران فیلم و سریال خارجی (دوبله و زیرنویس)"
+    },
+    {
+      "id": 2,
+      "src": "https://em-content.zobj.net/source/microsoft/74/white-heavy-check-mark_2705.png",
+      "title": "هزاران انیمیشن و کارتون برای کودکان"
+    },
+    {
+      "id": 3,
+      "src": "https://em-content.zobj.net/source/microsoft/74/white-heavy-check-mark_2705.png",
+      "title": "پشتیبانی 24 ساعته برای راهنمایی شما"
+    }
+  ],
+  "btnEnd": [
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/256/7489/7489540.png",
+      "title": "خریداشتراک و تماشا"
+    }
+  ],
+  "footer": [
+    {
+      "id": 1,
+      "title": "تماشا با تلویزیون"
+    },
+    {
+      "id": 2,
+      "title": " اپلیکیشن ها "
+    },
+    {
+      "id": 3,
+      "title": " تماس و پشتیبانی "
+    },
+    {
+      "id": 4,
+      "title": "  فروشگاه"
+    },
+    {
+      "id": 5,
+      "title": " سایرلینک ها "
+    }
+  ]
+}

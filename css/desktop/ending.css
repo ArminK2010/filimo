@@ -1,0 +1,63 @@
+div.ending {
+  width: 100%;
+  background-color: black;
+  box-sizing: border-box;
+  padding: 10px 70px 0px 70px;
+  position: absolute;
+  top: 4150px;
+  div.filimos {
+    h2 {
+      color: white;
+      font-family: iranSans;
+      text-align: center;
+      font-size: 70px;
+    }
+  }
+  div.loremEnd{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding-top: 50px;
+    box-sizing: border-box;
+    p{
+        color: white;
+        font-family: iranSans;
+    }
+    img{
+        width: 20px;
+        border-radius: 10px;
+    }
+  }
+}
+div.btnEnd{
+    width: 300px;
+    background-color: #38b36f;
+    padding: 20px;
+    box-sizing: border-box;
+    z-index: 1000;
+    transition: 500ms;
+    cursor: pointer;
+    border-radius: 10px;
+    position: absolute;
+    top: 250px;
+    right: 820px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    &:hover{
+      background-color: #17924e;
+    }
+    p{
+      color: white;
+      font-family: iranSans;
+      font-weight: 700;
+    }
+    img{
+      width: 40px;
+      padding-left: 10px;
+      box-sizing: border-box;
+    }
+  }

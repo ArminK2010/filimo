@@ -1,0 +1,52 @@
+div.baby{
+    width: 100%;
+    background-color: #091d22;
+    box-sizing: border-box;
+    position: absolute;
+    top: 7000px;
+    padding: 100px 70px 0px 70px;
+    div.babyimg{
+        img{
+            box-sizing: border-box;
+            padding-right: 50px;
+            width: 300px;
+            padding-top: 100px;
+        }
+    }
+    div.titlebaby{
+        color: white;
+        box-sizing: border-box;
+        padding-right: 00px;
+        position: absolute;
+        top: 20px;
+        right:10px;
+        h2{
+            font-family: iranSans;
+            padding-bottom: 10px;
+            box-sizing: border-box;
+            font-weight: 100;
+        }
+        p{
+            font-family: iranSans;
+            width: 450px;
+            color: gray;
+        }
+    }
+    div.btnBaby{
+        padding-right: 00px;
+        box-sizing: border-box;
+        position: absolute;
+        top:230px ;
+        a{
+            padding: 15px;
+            box-sizing: border-box;
+            color: black;
+            background-color: white;
+            font-family: iranSans;
+            font-weight: 700;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+    }
+    
+}

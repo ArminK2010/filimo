@@ -1,0 +1,37 @@
+div.cinema{
+    width: 100%;
+    background-color: black;
+    box-sizing: border-box;
+    padding: 10px 70px 0px 70px;
+    position: absolute;
+    top: 7430px;
+    div.titleCinema{
+        width: 100%;
+        h2{
+            color: white;
+            font-family: iranSans;
+            font-weight: 700;
+            z-index: 10000;
+            text-align: center;
+                }
+    }
+    div.titrCinema{
+        display: flex;
+        flex-flow: column  nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+        padding-top: 50px;
+        box-sizing: border-box;
+        img{
+            width: 20px;
+            border-radius: 10px;
+            display: none;
+        }
+        p{
+            color: white;
+            font-family: iranSans;
+            text-align: center;
+        }
+    }
+}

@@ -1,0 +1,37 @@
+div.papular{
+    width: 100%;
+    padding: 50px 70px 0px 70px;
+    box-sizing: border-box;
+    background-color: black;
+    div.titlePapular{
+        width: fit-content;
+        h2{
+            padding-right: 40px;
+            box-sizing: border-box;
+            color: whitesmoke;
+            font-family: iranSans;
+            font-weight: 700;
+            
+        }
+    }
+    div.imgInPapular{
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 100px;
+        box-sizing: border-box;
+        padding-top: 50px;
+        img{
+            width: 200px;
+            border-radius: 10px;
+            opacity: .7;
+            transition: 500ms;
+            &:hover{
+                opacity:1;
+                width: 250px;
+            }
+        }
+    }
+  
+}
